@@ -1,0 +1,39 @@
+{
+  "id": "62cea03c-c620-491e-8015-abb0f4e3f155",
+  "name": "Leaves",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "What type of leave?",
+          "replies": [
+            "Personal",
+            "Sick"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513315132,
+  "fallbackIntent": false,
+  "events": []
+}

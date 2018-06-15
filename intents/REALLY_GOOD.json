@@ -1,0 +1,30 @@
+{
+  "id": "ed3887bc-7d4a-47e9-89a1-c9127ba4ba09",
+  "name": "REALLY_GOOD",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Awesome, appreciate that!"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1515564069,
+  "fallbackIntent": false,
+  "events": []
+}

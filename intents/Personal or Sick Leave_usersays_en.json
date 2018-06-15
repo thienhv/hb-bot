@@ -1,0 +1,139 @@
+[
+  {
+    "id": "5a6ff2be-907b-42eb-8d79-5ae0b6d8527f",
+    "data": [
+      {
+        "text": "Sick",
+        "alias": "Leaves",
+        "meta": "@Leaves",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4e4a60ed-9d56-462e-9084-c6ad4381b078",
+    "data": [
+      {
+        "text": "Personal",
+        "alias": "Leaves",
+        "meta": "@Leaves",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "16e40df7-a0be-4c9a-9c96-ece6006c656e",
+    "data": [
+      {
+        "text": "@sys.any @Leaves:Leaves?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0
+  },
+  {
+    "id": "2768f378-b871-4cb2-915d-449af20f6461",
+    "data": [
+      {
+        "text": "@Leaves:Leaves",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0
+  },
+  {
+    "id": "bb56bf29-1618-43fd-b5b9-14d17d05e12f",
+    "data": [
+      {
+        "text": "How many ",
+        "userDefined": false
+      },
+      {
+        "text": "sick",
+        "alias": "Leaves",
+        "meta": "@Leaves",
+        "userDefined": false
+      },
+      {
+        "text": " leaves I have?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5125b92a-7fca-4872-933b-2e31adb50a7e",
+    "data": [
+      {
+        "text": "@sys.any @Leaves:Leaves  @sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0
+  },
+  {
+    "id": "a9c12eef-6bb7-40bc-91af-a3eb995db9d3",
+    "data": [
+      {
+        "text": "Sick",
+        "alias": "Leaves",
+        "meta": "@Leaves",
+        "userDefined": false
+      },
+      {
+        "text": " Leave",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513315379
+  },
+  {
+    "id": "10acb05c-5e30-4709-acc9-dec774598c9c",
+    "data": [
+      {
+        "text": "Personal",
+        "alias": "Leaves",
+        "meta": "@Leaves",
+        "userDefined": false
+      },
+      {
+        "text": " Leave",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513315379
+  },
+  {
+    "id": "297c614d-3a7c-46d6-bd0f-b051d3e6678f",
+    "data": [
+      {
+        "text": "How many ",
+        "userDefined": false
+      },
+      {
+        "text": "personal",
+        "alias": "Leaves",
+        "meta": "@Leaves",
+        "userDefined": false
+      },
+      {
+        "text": " leaves I have?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

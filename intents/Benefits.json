@@ -1,0 +1,32 @@
+{
+  "id": "22db01f8-718a-4c62-a8b7-0d6bcccac559",
+  "name": "Benefits",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "checkBenefits",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d14cf396-c940-4bb8-a270-9db1aa2ce7b2",
+          "required": false,
+          "dataType": "@Benefits",
+          "name": "Benefits",
+          "value": "$Benefits",
+          "isList": false
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 750000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513318049,
+  "fallbackIntent": false,
+  "events": []
+}

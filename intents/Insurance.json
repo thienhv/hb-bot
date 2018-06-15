@@ -1,0 +1,39 @@
+{
+  "id": "5bef785b-bd0f-469b-8294-5cad582c5998",
+  "name": "Insurance",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "checkInsurance",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "What type of insurance?",
+          "replies": [
+            "AD\u0026D",
+            "Critical Illness"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "What type of insurance?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518755673,
+  "fallbackIntent": false,
+  "events": []
+}

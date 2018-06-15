@@ -1,0 +1,134 @@
+[
+  {
+    "id": "e3053c42-89e6-4214-b472-2f73d0d9a34b",
+    "data": [
+      {
+        "text": " @sys.any insurance @sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1518755673
+  },
+  {
+    "id": "c422fe91-0d78-407f-82b7-a3bd7db662d3",
+    "data": [
+      {
+        "text": "insurance @sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1518755673
+  },
+  {
+    "id": "533abe77-0e20-4dd0-ba28-456bb660e10a",
+    "data": [
+      {
+        "text": "life insurance @sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1518755673
+  },
+  {
+    "id": "c752ecc8-cf21-4a30-856f-dd189f9e8963",
+    "data": [
+      {
+        "text": "insurance @sys.any?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1518755673
+  },
+  {
+    "id": "592ba9be-cda0-439e-aae5-f4c6a5847b97",
+    "data": [
+      {
+        "text": "@sys.any insurance?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1518755673
+  },
+  {
+    "id": "dd8d9198-a1e6-4abe-84a0-c7a728b69010",
+    "data": [
+      {
+        "text": " @sys.any insurance @sys.any?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1518755673
+  },
+  {
+    "id": "d2513585-ade7-4bd5-841d-87178406e333",
+    "data": [
+      {
+        "text": "@sys.any life insurance @sys.any?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1518755673
+  },
+  {
+    "id": "7baa25d8-0ca8-4da0-b399-3b0731297d2f",
+    "data": [
+      {
+        "text": "@sys.any life insurance @sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1518755673
+  },
+  {
+    "id": "8bba0dd1-24c3-46ac-b410-743de755a939",
+    "data": [
+      {
+        "text": "@sys.any life insurance?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1518755673
+  },
+  {
+    "id": "b2b3b522-21b0-4cd9-9444-450ddbacb51a",
+    "data": [
+      {
+        "text": "Life Insurance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518755673
+  },
+  {
+    "id": "77a96b02-31b9-4b16-abe2-693eb2d1cbec",
+    "data": [
+      {
+        "text": "Insurance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518755673
+  }
+]

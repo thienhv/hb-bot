@@ -1,0 +1,56 @@
+{
+  "id": "5b7cba01-d552-4067-aebf-935d2f9dc9cc",
+  "name": "Custom welcome",
+  "auto": true,
+  "contexts": [
+    "fb_info"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [
+        {
+          "name": "fb_info",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Oh yes, we\u0027re talking. Let me know which one you\u0027d like some help on.",
+          "replies": [
+            "Leaves",
+            "Medical Benefits",
+            "Retirement",
+            "Allowances",
+            "Lifestyle Benefits"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Oh yes, we\u0027re talking. Let me know which one you\u0027d like some help on."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521187614,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "CUSTOM_WELCOME"
+    }
+  ]
+}

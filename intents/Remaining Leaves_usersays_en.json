@@ -1,0 +1,81 @@
+[
+  {
+    "id": "20b330f9-a092-44fd-b9ec-6006db7515c6",
+    "data": [
+      {
+        "text": "Remaining leaves",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514959194
+  },
+  {
+    "id": "95bc49fd-d3a4-4880-9575-ce6ae68eba25",
+    "data": [
+      {
+        "text": "Remaining ",
+        "userDefined": false
+      },
+      {
+        "text": "personal",
+        "alias": "Leaves",
+        "meta": "@Leaves",
+        "userDefined": false
+      },
+      {
+        "text": " leaves",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514959194
+  },
+  {
+    "id": "a5ed4b8a-790d-4644-a5a4-10ee444003e0",
+    "data": [
+      {
+        "text": "How many leaves do I have left?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514959194
+  },
+  {
+    "id": "301f428d-207e-4062-b927-d1e623164537",
+    "data": [
+      {
+        "text": "Remaining ",
+        "userDefined": false
+      },
+      {
+        "text": "sick",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " leaves",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514959194
+  },
+  {
+    "id": "e87e9f9b-bdf7-4c48-a35e-46d0f8f253b8",
+    "data": [
+      {
+        "text": "How many remaining leaves?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514959194
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "value": "Annual Personal Leave",
+    "synonyms": [
+      "Personal",
+      "Annual Leave",
+      "Annual Personal Leave",
+      "personal leaves"
+    ]
+  },
+  {
+    "value": "Annual Sick Leave",
+    "synonyms": [
+      "Sick",
+      "Annual Sick Leave",
+      "Sick Leave",
+      "sick leaves",
+      "annual sick"
+    ]
+  }
+]

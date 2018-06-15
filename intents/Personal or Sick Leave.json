@@ -1,0 +1,50 @@
+{
+  "id": "0a784ffb-b52b-4ed2-b76b-612ca0c5c362",
+  "name": "Personal or Sick Leave",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "checkLeaves",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c0bad23f-1dda-4d8b-bec7-64730bfdd49b",
+          "required": false,
+          "dataType": "@Leaves",
+          "name": "Leaves",
+          "value": "$Leaves",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Sorry, that benefit is not available for you."
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Can I help you on something else?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 750000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513315379,
+  "fallbackIntent": false,
+  "events": []
+}

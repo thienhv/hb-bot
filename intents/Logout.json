@@ -1,0 +1,29 @@
+{
+  "id": "8d24201c-1631-4b82-a6bb-d62394cd9ba8",
+  "name": "Logout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "unlinkAccount",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1516183035,
+  "fallbackIntent": false,
+  "events": []
+}

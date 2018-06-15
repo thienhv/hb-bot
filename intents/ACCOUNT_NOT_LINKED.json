@@ -1,0 +1,29 @@
+{
+  "id": "d842e130-767c-4c0e-81fb-ecfceb0e5755",
+  "name": "ACCOUNT_NOT_LINKED",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "isAccountLinked",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1515568400,
+  "fallbackIntent": false,
+  "events": []
+}

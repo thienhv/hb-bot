@@ -1,0 +1,23 @@
+{
+  "id": "1efa7f14-969a-4cec-a12b-d880b2401fc6",
+  "name": "EAP",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "callCounsellor",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518682445,
+  "fallbackIntent": false,
+  "events": []
+}

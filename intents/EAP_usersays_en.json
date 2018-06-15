@@ -1,0 +1,25 @@
+[
+  {
+    "id": "20c0578f-e9dc-418f-9cdb-6177230f556c",
+    "data": [
+      {
+        "text": "Counsellor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "51c9d22c-c7e4-417f-8efb-e74fee9c3efd",
+    "data": [
+      {
+        "text": "I\u0027m stressed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514868938
+  }
+]

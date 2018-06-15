@@ -1,0 +1,60 @@
+[
+  {
+    "id": "ff21fe1a-ea1a-4cd0-9d7c-9a67c4e6b914",
+    "data": [
+      {
+        "text": "retirement @sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0
+  },
+  {
+    "id": "84b8c45a-5da7-4512-b50f-fd85994cd321",
+    "data": [
+      {
+        "text": "@sys.any retirement @sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1515644259
+  },
+  {
+    "id": "79a5556a-cf16-4975-a36b-432e6ba39bb1",
+    "data": [
+      {
+        "text": "@sys.any retirement",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0
+  },
+  {
+    "id": "2fff7fc2-7e5c-48ef-849b-191907bb92a1",
+    "data": [
+      {
+        "text": "Retirement benefits",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518668349
+  },
+  {
+    "id": "816f8697-71ef-4bf9-8bef-763834dab3ed",
+    "data": [
+      {
+        "text": "retirement",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

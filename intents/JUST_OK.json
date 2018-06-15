@@ -1,0 +1,30 @@
+{
+  "id": "267ecc89-5c09-4830-b4c0-604045d5107a",
+  "name": "JUST_OK",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Thank you, will try to improve!"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1515564119,
+  "fallbackIntent": false,
+  "events": []
+}
