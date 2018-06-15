@@ -1,18 +1,23 @@
 [
   {
-    "value": "Annual Personal Leave",
+    "value": "Paid Annual Leave",
     "synonyms": [
       "Personal",
       "Annual Leave",
+      "Paid Annual Leave",
+      "personal leaves",
       "Annual Personal Leave",
-      "personal leaves"
+      "Personal Leave"
     ]
   },
   {
-    "value": "Annual Sick Leave",
+    "value": "Paid Medical Leave Benefit",
     "synonyms": [
+      "Annual Medical Leave",
+      "Medical Leave",
+      "Medical",
       "Sick",
-      "Annual Sick Leave",
+      "Paid Medical Leave Benefit",
       "Sick Leave",
       "sick leaves",
       "annual sick"

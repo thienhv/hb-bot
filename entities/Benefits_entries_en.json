@@ -7,9 +7,9 @@
     ]
   },
   {
-    "value": "Housing",
+    "value": "Housing Allowance",
     "synonyms": [
-      "Housing"
+      "Housing Allowance"
     ]
   },
   {
@@ -20,16 +20,9 @@
     ]
   },
   {
-    "value": "Benefits Marketplace",
+    "value": "Wellbeing Privilege Club",
     "synonyms": [
-      "Benefits Marketplace"
-    ]
-  },
-  {
-    "value": "Retiree Medical",
-    "synonyms": [
-      "Retiree Medical",
-      "Retiree"
+      "Wellbeing Privilege Club"
     ]
   },
   {
@@ -39,13 +32,13 @@
     ]
   },
   {
-    "value": "Child Education",
+    "value": "Child Education Benefit",
     "synonyms": [
-      "Child Education"
+      "Child Education Benefit"
     ]
   },
   {
-    "value": "Medical In-Patient",
+    "value": "Medical Insurance - Inpatient",
     "synonyms": [
       "Medical in-patient",
       "Medical In Patient",
@@ -55,17 +48,12 @@
     ]
   },
   {
-    "value": "Elder Care",
+    "value": "Elder Care Allowance",
     "synonyms": [
       "Elder Care",
       "Elderly",
-      "Elderly Care"
-    ]
-  },
-  {
-    "value": "Occupational Health and Safety Insurance",
-    "synonyms": [
-      "Occupational Health and Safety Insurance"
+      "Elderly Care",
+      "Elder Care Allowance"
     ]
   },
   {
@@ -87,17 +75,18 @@
     ]
   },
   {
-    "value": "Child Care",
+    "value": "Childcare Allowance",
     "synonyms": [
       "Childcare",
       "Child Care",
-      "care child"
+      "care child",
+      "Childcare Allowance"
     ]
   },
   {
-    "value": "Higher Education",
+    "value": "Higher Education Benefit",
     "synonyms": [
-      "Higher Education"
+      "Higher Education Benefit"
     ]
   },
   {
@@ -108,7 +97,7 @@
     ]
   },
   {
-    "value": "Medical Out-Patient",
+    "value": "Medical Insurance - Outpatient",
     "synonyms": [
       "Medical Outpatient",
       "Medical Out-Patient",
@@ -142,19 +131,18 @@
     ]
   },
   {
-    "value": "Transportation",
+    "value": "Transportation Allowance",
     "synonyms": [
-      "Transportation"
+      "Transportation Allowance"
     ]
   },
   {
-    "value": "Gym Access \u0026 Allowance",
+    "value": "Free Gym Access",
     "synonyms": [
-      "Gym Access / Allowance",
+      "Free Gym Access",
       "Gym Access",
       "Gym Benefits",
-      "Gym",
-      "Gym Access \u0026 Allowance"
+      "Gym"
     ]
   },
   {
@@ -188,9 +176,9 @@
     ]
   },
   {
-    "value": "Optical",
+    "value": "Optical Allowance",
     "synonyms": [
-      "Optical"
+      "Optical Allowance"
     ]
   },
   {
@@ -207,13 +195,13 @@
     ]
   },
   {
-    "value": "Communication",
+    "value": "Communication Allowance",
     "synonyms": [
-      "Communication"
+      "Communication Allowance"
     ]
   },
   {
-    "value": "Dental",
+    "value": "Medical Insurance - Dental",
     "synonyms": [
       "Dental"
     ]
