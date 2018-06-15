@@ -17,7 +17,8 @@
           "title": "What type of leave?",
           "replies": [
             "Personal",
-            "Sick"
+            "Medical",
+            "Hospitalization"
           ]
         },
         {
