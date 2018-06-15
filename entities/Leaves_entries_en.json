@@ -22,5 +22,16 @@
       "sick leaves",
       "annual sick"
     ]
+  },
+  {
+    "value": "Hospitalization Leave",
+    "synonyms": [
+      "Annual Hospitalization Leave",
+      "Hospitalization Leave",
+      "Hospitalization",
+      "Annual Hospitalization Leave",
+      "Hospitalization Leave",
+      "Hospitalization"
+    ]
   }
 ]
