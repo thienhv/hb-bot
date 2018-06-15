@@ -35,7 +35,8 @@
   {
     "value": "Child Education Benefit",
     "synonyms": [
-      "Child Education Benefit"
+      "Child Education Benefit",
+      "Child Education"
     ]
   },
   {
@@ -87,7 +88,8 @@
   {
     "value": "Higher Education Benefit",
     "synonyms": [
-      "Higher Education"
+      "Higher Education",
+      "Higher Education Benefit"
     ]
   },
   {
