@@ -8,7 +8,17 @@
       "resetContexts": false,
       "action": "input.welcome",
       "affectedContexts": [],
-      "parameters": [],
+      "parameters": [
+        {
+          "id": "13decacc-dbed-43b7-8fe7-c0c3944636ef",
+          "required": false,
+          "name": "welcome",
+          "value": "",
+          "prompts": [],
+          "defaultValue": "",
+          "isList": false
+        }
+      ],
       "messages": [],
       "defaultResponsePlatforms": {},
       "speech": []
